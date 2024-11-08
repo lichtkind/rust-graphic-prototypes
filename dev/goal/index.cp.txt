@@ -1,0 +1,10 @@
+
+  ┌───┤ Summary ├───────────────────────────────────────────────────────┐
+  │ with rust graphic prototypes (rgp) We aim to produce a program that │
+  │ renders math generated graphical animations to screen and file.     │
+  │ It will will either follow a defined composition, defined in a text │
+  │ file or react to realtime input.                                    │
+  │ This will be done via short stepped cascade of prototypes.          │
+  │ And since we new to rust, we also collect and format the needed     │
+  │ knowledge under /dev/goal/doc/rust.                                 │
+  └─────────────────────────────────────────────────────────────────────┘
