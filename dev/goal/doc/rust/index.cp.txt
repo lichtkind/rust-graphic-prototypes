@@ -1,0 +1,7 @@
+
+  ┌───┤ Summary ├───────────────────────────────────────────────────────┐
+  │ /dev/goal/doc/rustis is our own, project based rust documentation   │
+  │ it contains:                                                        │
+  │    - quick overviews over types and important syntax features       │
+  │    - clarifications that are not easy derivable from the lang docs  │
+  └─────────────────────────────────────────────────────────────────────┘
